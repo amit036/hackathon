@@ -56,9 +56,9 @@ function LandingPage() {
       </div>
 
       <ParticleField config={config} />
-      <img className="hint-overlay" src="https://i.graphicmama.com/uploads/2019/3/5c98cbdd6241b-Italian%20Chef%20Cartoon%20Vector%20Character.png" style={{height:"750px"}}></img>
+      <img className="hint-overlay" src="https://i.graphicmama.com/uploads/2019/3/5c98cbdd6241b-Italian%20Chef%20Cartoon%20Vector%20Character.png" style={{height:"450px",marginRight:"-200px"}}></img>
       <div className="hint-overlay1">
-      <img className="hint-overlay2" src="https://i.graphicmama.com/uploads/2019/3/5c9a37738322e-Cartoon%20Cook%20Vector%20Character.png" style={{height:"750px"}}></img>
+      <img className="hint-overlay2" src="https://i.graphicmama.com/uploads/2019/3/5c9a37738322e-Cartoon%20Cook%20Vector%20Character.png" style={{height:"450px",marginLeft:"-200px"}}></img>
       </div>
     </div>
   );
